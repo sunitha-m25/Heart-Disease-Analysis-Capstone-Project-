@@ -1,6 +1,9 @@
 ## Heart Disease Analysis
 
-On this project, you'll be working with data from [Gray Line Tennessee](https://graylinetn.com/), a company which offers charter bus service, sightseeing tours, black car service, and airport shuttles. You have been provided several years of accident history. 
+Mortality Trends in Heart Diseases: A 6-Year Analysis of Heart Disease and Stroke in the United States (2014-2019).
+This project explores the trends and patterns of five major Heart-related conditions from 2014 to 2019 using public health data. These conditions are among the leading causes of death globally by analyzing their annual incidence or mortality rates.
+The motivation behind this Analysis is to contribute to early detection, risk prediction and better decision making in the diagnosis and treatment of heart diseases. By leveraging the data, we aim to support healthcare professionals and improve patient outcomes, also aims to provide insights into how these diseases have evolved and what correlations or patterns may exist.
+
 
 **Objectives** 
 * To Analyze how mortality rates for heart disease and stroke varied across different demographic groups (age, gender, and race/ethnicity) and regions (states and counties) in those 6 years.
@@ -27,6 +30,16 @@ On this project, you'll be working with data from [Gray Line Tennessee](https://
 * Years of Data Covered: 2014–2019
 * Format: CSV
 * Metrics Tracked: Cause of Death, Mortality rates per 100k, Gender, Race and Ethnicity, States and Counties.
+
+**Quality of the data:** 
+* The quality of data was unstructured in nature
+* The data did have missing values and irrelevant columns
+
+**Preprocessing of data:**
+* All unwanted columns dropped
+* Renamed the remaining columns
+* Rows corresponding to missing values are dropped
+* Duplicate rows are dropped
 
 **Tools & Technologies**
 
@@ -62,5 +75,5 @@ On this project, you'll be working with data from [Gray Line Tennessee](https://
 * Extend dataset beyond 2019.
 * Predict future trends using machine learning.
 
-* Heart Disease Analysis Power BI Dashboard 
-* Link: https://app.powerbi.com/groups/me/reports/fed35eed-b3f3-4d18-ae26-5559861800d4/ab6f1727117e4c40c649?experience=power-bi 
+* Heart Disease Analysis Power BI Dashboard Link :
+* https://app.powerbi.com/groups/me/reports/fed35eed-b3f3-4d18-ae26-5559861800d4/ab6f1727117e4c40c649?experience=power-bi 
