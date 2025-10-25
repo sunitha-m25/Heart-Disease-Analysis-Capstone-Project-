@@ -83,20 +83,15 @@ Last chart(Key Influencers) in Power BI will not show up in the published versio
 
  ![Factors that increase mortality rate](./Images/Key_Influencer_Mortality_Rate_Increase.png)
 
-* Factors that decrease mortality rate
-('./Images/Key Influencer Mortality Rate Decrease.png')
+ ![Factors that decrease mortality rate](./Images/Key_Influencer_Mortality_Rate_Decrease.png)
 
-* Segmentation: where mortality is high
-('/Images/Key Influencer Mortality Rate High.png')
+ ![Segmentation: where mortality is high](./Images/Key_Influencer_Mortality_Rate_High.png)
 
-* Segment details when mortality is high
- ('../Images/Mortality high Details.png')
+ ![Segment details when mortality is high](./Images/Mortality_high_Details.png)
 
-*  Segmentation: where mortality is low
-('../Images/Key Influencer Mortality Rate Low.png')
+ ![Segmentation: where mortality is low](./Images/Key_Influencer_Mortality_Rate_Low.png)
 
-* Segment details when mortality is low
- ('../Images/Mortality low Details.png')
+ ![Segment details when mortality is low](./Images/Mortality_low_Details.png)
 
 
 
