@@ -76,4 +76,4 @@ The motivation behind this Analysis is to contribute to early detection, risk pr
 * Predict future trends using machine learning.
 
 * Heart Disease Analysis Power BI Dashboard Link :
-* https://app.powerbi.com/groups/me/reports/fed35eed-b3f3-4d18-ae26-5559861800d4/ab6f1727117e4c40c649?experience=power-bi 
+* https://app.powerbi.com/view?r=eyJrIjoiYzJjODBkMzctNDkwYi00NjdhLWIzMDAtMzk4OWI3ODc5YTZlIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9
