@@ -82,7 +82,7 @@ Last chart(Key Influencers) in Power BI will not show up in the published versio
 * These charts explores the key influencers behind heart disease mortality rates. Our main goal is to understand where mortality is highest and what factors contribute most of it - to guide effective interventions and policy actions.
 
 * Factors that increase mortality rate
-('../Images/Key Influencer Mortality Rate Increase.png')
+('Images/Key Influencer Mortality Rate Increase.png')
 
 * Factors that decrease mortality rate
 ('../Images/Key Influencer Mortality Rate Decrease.png')
