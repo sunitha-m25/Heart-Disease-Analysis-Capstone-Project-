@@ -87,11 +87,11 @@ Last chart(Key Influencers) in Power BI will not show up in the published versio
 
  ![Segmentation: where mortality is high](./Images/Key_Influencer_Mortality_Rate_High.png)
 
- ![Segment details when mortality is high](./Images/Mortality_high_Details.png)
+ ![Segment details when mortality is high](./Images/Mortality_High_Details.png)
 
  ![Segmentation: where mortality is low](./Images/Key_Influencer_Mortality_Rate_Low.png)
 
- ![Segment details when mortality is low](./Images/Mortality_low_Details.png)
+ ![Segment details when mortality is low](./Images/Mortality_Low_Details.png)
 
 
 
